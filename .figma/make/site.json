@@ -1,0 +1,10 @@
+{
+  "description": "Save screenshots, links, notes, and documents in one place, then quickly find life’s details with natural-language search.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
